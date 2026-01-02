@@ -1,6 +1,0 @@
-@TentantAPI_HostAddress = http://localhost:5160
-
-GET {{TentantAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
