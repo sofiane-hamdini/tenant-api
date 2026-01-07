@@ -1,4 +1,5 @@
 using Serilog;
+using TentantAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
